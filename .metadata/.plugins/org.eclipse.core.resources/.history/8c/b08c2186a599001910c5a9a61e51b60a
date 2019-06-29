@@ -1,0 +1,23 @@
+package com.bridgelabz.user.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.bridgelabz.user.dao.LoginRepo;
+
+@Controller
+public class LoginController {
+	@Autowired
+	LoginRepo loginrepo;
+	@RequestMapping("home")
+	public String home() {
+		return "home.jsp";
+	}
+	
+	@RequestMapping("data")
+	public String addData() {
+		return "home.jsp";
+	}
+
+}

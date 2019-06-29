@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/home/bridgeit/Documents/workspace-sts-3.9.9.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2835156338.index
+/SpringMVCExample/src/main/resources
+/home/bridgeit/Documents/workspace-sts-3.9.9.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2468562933.index
+/loginRestFullApI/src/main/java
+/home/bridgeit/Documents/workspace-sts-3.9.9.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2062195165.index
+/MyWebApp/src/main/java
+/home/bridgeit/Documents/workspace-sts-3.9.9.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/367272505.index
+/MyWebApp/src/main/java

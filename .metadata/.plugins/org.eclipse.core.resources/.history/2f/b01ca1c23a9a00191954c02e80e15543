@@ -1,0 +1,18 @@
+package com.bridgelabz.fundoo.user.dto;
+
+import javax.persistence.Column;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
+
+public class LoginDTO {
+	@Column(name = "email",nullable = false)
+	@Email(regexp = "")
+	@NotEmpty(message = "provide a valid email")
+	private String emailId;
+	
+	@Column(name="password")
+	@NotEmpty(message = "pls provide password")
+	private String password;
+	
+
+}

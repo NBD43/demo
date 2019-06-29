@@ -1,0 +1,16 @@
+package com.bridgelabz.fundoo.user.model;
+
+import java.time.LocalDateTime;
+
+public class User {
+	
+	private long userId;
+	private String firstName;
+	private String lastName;
+	private String emailId;
+	private String password;
+	private String mobileNum;
+	private boolean isVerify;
+	private LocalDateTime registerDate=LocalDateTime.now();
+
+}
